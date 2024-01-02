@@ -295,8 +295,7 @@ button:hover, button:focus,
 /* Footer */
 .page-footer {
   clear: both;
-  display: flex;
-  flex-direction: column;
+ position: static;
   text-align: center;
   font-family: 'Permanent Marker', cursive;
   color:#bf0078;
